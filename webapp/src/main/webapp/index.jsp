@@ -1,7 +1,11 @@
-<form action="/action_page.php">
-  <label for="fname">First name:</label>
-  <input type="text" id="fname" name="fname"><br><br>
-  <label for="lname">Last name:</label>
-  <input type="text" id="lname" name="lname"><br><br>
-  <input type="submit" value="Submit">
-</form>
+<img src="smiley.gif" alt="Smiley face" width="42" height="42" style="vertical-align:bottom">
+<img src="smiley.gif" alt="Smiley face" width="42" height="42" style="vertical-align:middle">
+<img src="smiley.gif" alt="Smiley face" width="42" height="42" style="vertical-align:top">
+<img src="smiley.gif" alt="Smiley face" width="42" height="42" style="float:right">
+<img src="smiley.gif" alt="Smiley face" width="42" height="42" style="float:left">
+
+<style>
+body {
+  background-image: url('example_img_girl.jpg');
+}
+</style>
