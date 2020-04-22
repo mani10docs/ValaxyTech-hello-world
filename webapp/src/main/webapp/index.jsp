@@ -1,1 +1,2 @@
-<img src="img_girl.jpg" alt="Girl in a jacket">
+<h1>this is kittu project</h1>
+
