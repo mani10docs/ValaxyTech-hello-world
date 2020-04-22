@@ -1,17 +1,1 @@
-<table style="width:100%">
-  <tr>
-    <th>ISBN</th>
-    <th>Title</th>
-    <th>Price</th>
-  </tr>
-  <tr>
-    <td>3476896</td>
-    <td>My first HTML</td>
-    <td style="text-align:right">$53</td>
-  </tr>
-  <tr>
-    <td>2489604</td>
-    <td>My first CSS</td>
-    <td style="text-align:right">$47</td>
-  </tr>
-</table>
+<img src="img_girl.jpg" alt="Girl in a jacket">
