@@ -1,2 +1,2 @@
-<h1>this is PraneeL project</h1>
+<h1>this is manikanta project</h1>
 
